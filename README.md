@@ -59,11 +59,6 @@ La gestión de estado se realiza exclusivamente con BLoC.
   - Cámara
   - Ubicación (ACCESS_FINE_LOCATION / ACCESS_COARSE_LOCATION)
 
-## Cómo ejecutar el proyecto
 
-```bash
-git clone https://github.com/tu-usuario/flutter_location_camera_bloc.git
-cd flutter_location_camera_bloc
-flutter pub get
-flutter run
+
 
