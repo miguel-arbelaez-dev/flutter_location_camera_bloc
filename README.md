@@ -59,6 +59,17 @@ La gestión de estado se realiza exclusivamente con BLoC.
   - Cámara
   - Ubicación (ACCESS_FINE_LOCATION / ACCESS_COARSE_LOCATION)
 
+## Objetivo del proyecto
+
+Este proyecto demuestra experiencia práctica en:
+
+- Uso de recursos nativos del dispositivo
+- Arquitectura limpia en Flutter
+- Gestión de estado con BLoC
+- Desarrollo de aplicaciones móviles listas para producción
+- Solución de problemas reales relacionados con permisos y hardware
+
+
 
 
 
