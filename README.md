@@ -53,7 +53,7 @@ La gestión de estado se realiza exclusivamente con BLoC.
 
 ## Requisitos
 
-- Flutter 3.8.6
+- Flutter 3.86.6
 - Android SDK configurado
 - Permisos habilitados en AndroidManifest.xml:
   - Cámara
